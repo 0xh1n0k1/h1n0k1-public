@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/0xh1n0k1/h1n0k1-public/main/test.txt",
+    "url": "https://raw.githubusercontent.com/0xh1n0k1/h1n0k1-public/main/test.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/0xh1n0k1/h1n0k1-public/main/test.txt",
+            "url": "https://raw.githubusercontent.com/0xh1n0k1/h1n0k1-public/main/test.yaml",
             "name": "h1n0k1"
         }
     ]
